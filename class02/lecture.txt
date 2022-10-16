@@ -1,0 +1,2 @@
+let is only accessible inside the block of code.
+JS is smart enough to consider a line statement without ending with a semicolon if next line is introduced between two statements.
